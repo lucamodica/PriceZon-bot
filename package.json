@@ -1,0 +1,24 @@
+{
+  "name": "pricezon-bot",
+  "version": "1.0.0",
+  "description": "A simply bot, with a useful feature: letting you know of the price trend of an Amazon product!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucamodica/PriceZon-bot.git"
+  },
+  "author": "lucamodica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucamodica/PriceZon-bot/issues"
+  },
+  "homepage": "https://github.com/lucamodica/PriceZon-bot#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
